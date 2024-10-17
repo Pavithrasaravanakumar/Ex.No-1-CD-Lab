@@ -92,6 +92,11 @@ int main() {
 ```
 
 OUTPUT:
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/7cd461bc-72a2-413b-bc37-2415b47a04ba)
 
 RESULT:
